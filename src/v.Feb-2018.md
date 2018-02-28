@@ -26,8 +26,7 @@ Open source projects can be useful for programmers. Hope you find an interesting
 <br>
 
 ## Rank 2
-### [Vue-devtools: ⚙️ Browser devtools extension for debugging Vue.js applications. [★7017]](https://github.com/vuejs/vue-devtools
-?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
+### [Vue-devtools: ⚙️ Browser devtools extension for debugging Vue.js applications. [★7017]](https://github.com/vuejs/vue-devtools?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
 
 
 <br>
@@ -51,8 +50,7 @@ Open source projects can be useful for programmers. Hope you find an interesting
 <br>
 
 ## Rank 6
-### [Reusable Vue 2 transition components [★136]](https://github.com/cristijora/vue2-transitions
-?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
+### [Reusable Vue 2 transition components [★136]](https://github.com/cristijora/vue2-transitions?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
 
 
 <br>
